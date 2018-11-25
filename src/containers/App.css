@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  width: 100vw;
+  background-image: url("../images/Background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+}
+
+.fixed_bg {
+  min-height: 100vh;
+  width: 100vw;
+  background-image: url("../images/Background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.content {
+  overflow: scroll;
+}
+
+.own_slide {
+  height: 0 !important;
+}
